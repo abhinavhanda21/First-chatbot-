@@ -1,0 +1,11 @@
+<script>
+  function codeAddress() {
+	chatteron.init({
+	clientID: "c1a2f2a0a4bfba2958561a985795debcb9b82b903535677e",
+	themeColor       : "3295e6",
+	title            : "Chat here"
+  });
+}
+</script>
+<script src="http://web.chatteron.io/scripts/sdk.js" onload="codeAddress();">
+</script>
